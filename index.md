@@ -79,6 +79,7 @@ Also as a reference take a look to  [https://kubectl.docs.kubernetes.io/](https:
 
 * https://github.com/kelseyhightower/kubernetes-the-hard-way
 * https://github.com/yinchuan/kubernetes-the-hard-way-virtualbox
+* https://learnk8s.io/troubleshooting-deployments
 
 
 # Other tools
